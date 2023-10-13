@@ -15,6 +15,11 @@ This is a Java FX-based graphical user interface (GUI) project that implements t
 - After a player wins, a "Restart" button appears, allowing players to reset the game and start a new round.
 - The game provides visual feedback when players climb ladders, slide down snakes, or reach the win condition, ensuring players are informed of significant events.
 
+## Prerequisites
+
+Before running this project, make sure you have the following installed:
+- Java Development Kit (JDK): JavaFX is a part of the JDK, so you need to have a compatible version installed on your system.
+
 ## How to Run the Game on your local machine:
 
 Follow these steps to run the Snake and Ladder game on your local machine:
